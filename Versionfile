@@ -8,3 +8,7 @@
 "1.3.x" => { :ref => "b844acc394fc9bbf7c63ded4c713fe4009352d06" }
 "2.0.x" => { :branch => "2-0-stable" }
 "2.2.x" => { :branch => "2-2-stable" }
+"2.3.x" => { :branch => "2-3-stable" }
+"2.4.x" => { :branch => "2-4-stable" }
+"3.0.x" => { :branch => "3-0-stable" }
+"3.x.x" => { :branch => "master" }
